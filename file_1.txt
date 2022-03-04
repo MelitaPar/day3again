@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change1 in the original
+=======
+costumer 1 changes
+>>>>>>> 7e4b1bd (costumer1 changes)
